@@ -11,5 +11,7 @@ wget "https://zenodo.org/records/14604495/files/GATA2.torch?download=1" -O GATA2
 wget "https://hgdownload.soe.ucsc.edu/goldenPath/hg38/bigZips/hg38.fa.gz" -O hg38.fa.gz
 gunzip hg38.fa.gz
 
-#Note!!
+Then get started with the tutorial notebook.
+
+Note!!
 If you run into problems with pyfaidx (if you see an error message to do with hg38.fa, use the provided hg38 index file, hg38.fa.fai)
